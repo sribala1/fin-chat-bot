@@ -1,0 +1,9 @@
+streamlit
+llama-index
+llama-index-llms-cohere
+llama-index-embeddings-cohere
+cohere
+python-dotenv
+pandas
+openpyxl
+# Additional dependencies for the project
